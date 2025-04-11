@@ -1,0 +1,11 @@
+.qodo
+.env
+.env/
+.env.local
+
+env/
+venv/
+
+__pycache__/
+
+.env 
